@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+}
+
+.toggle_hide {
+  display: none;
+}
+
+.show_conatiner {
+  display: block;
+}
